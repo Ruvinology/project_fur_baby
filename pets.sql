@@ -44,7 +44,6 @@ INSERT INTO `furbaby` (`id`, `name`, `breed`, `age`, `owner`) VALUES
 (2, 'ruvin', 'dog', '7 months', 'mandi no'),
 (3, 'buddy', 'cat', '6 months', 'ruvin2'),
 (4, 'buddy', 'cat', '19 months', 'ruvin'),
-(5, 'fucky', 'cat', '19 months', 'ruvin'),
 (6, 'alabole', 'cat', '12 months', 'cat'),
 (7, 'buddy', 'cat', '2 months', 'ruvin'),
 (8, 'cat 3', 'cat', '3 months', 'ruvin'),
